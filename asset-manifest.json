@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Particles-react.git/static/css/main.53d83c81.chunk.css",
+    "main.js": "/Particles-react.git/static/js/main.9a15e964.chunk.js",
+    "main.js.map": "/Particles-react.git/static/js/main.9a15e964.chunk.js.map",
+    "runtime-main.js": "/Particles-react.git/static/js/runtime-main.35892d8d.js",
+    "runtime-main.js.map": "/Particles-react.git/static/js/runtime-main.35892d8d.js.map",
+    "static/js/2.cdaf2933.chunk.js": "/Particles-react.git/static/js/2.cdaf2933.chunk.js",
+    "static/js/2.cdaf2933.chunk.js.map": "/Particles-react.git/static/js/2.cdaf2933.chunk.js.map",
+    "static/js/3.9ea4bc5d.chunk.js": "/Particles-react.git/static/js/3.9ea4bc5d.chunk.js",
+    "static/js/3.9ea4bc5d.chunk.js.map": "/Particles-react.git/static/js/3.9ea4bc5d.chunk.js.map",
+    "index.html": "/Particles-react.git/index.html",
+    "static/css/main.53d83c81.chunk.css.map": "/Particles-react.git/static/css/main.53d83c81.chunk.css.map",
+    "static/js/2.cdaf2933.chunk.js.LICENSE.txt": "/Particles-react.git/static/js/2.cdaf2933.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35892d8d.js",
+    "static/js/2.cdaf2933.chunk.js",
+    "static/css/main.53d83c81.chunk.css",
+    "static/js/main.9a15e964.chunk.js"
+  ]
+}
